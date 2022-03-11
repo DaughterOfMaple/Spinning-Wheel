@@ -7,23 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5ADFB6D427DA147E000C441C /* PointerImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADFB6D327DA147E000C441C /* PointerImageView.swift */; };
+		5ADFB6D627DA1B09000C441C /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADFB6D527DA1B09000C441C /* RoundedButton.swift */; };
+		5ADFB6D827DA2372000C441C /* K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADFB6D727DA2372000C441C /* K.swift */; };
 		5AF039F027D803790022514F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF039EF27D803790022514F /* AppDelegate.swift */; };
 		5AF039F227D803790022514F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF039F127D803790022514F /* SceneDelegate.swift */; };
-		5AF039F427D803790022514F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF039F327D803790022514F /* ViewController.swift */; };
-		5AF039F727D803790022514F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AF039F527D803790022514F /* Main.storyboard */; };
 		5AF039F927D803800022514F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AF039F827D803800022514F /* Assets.xcassets */; };
 		5AF039FC27D803800022514F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AF039FA27D803800022514F /* LaunchScreen.storyboard */; };
+		5AF03A0627D80B900022514F /* OptionsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF03A0527D80B900022514F /* OptionsVC.swift */; };
+		5AF03A0A27D80E2A0022514F /* WheelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF03A0927D80E2A0022514F /* WheelVC.swift */; };
+		5AF03A1227D818130022514F /* OptionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF03A1127D818130022514F /* OptionCell.swift */; };
+		5AF03A1427D824D90022514F /* ModalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF03A1327D824D90022514F /* ModalVC.swift */; };
+		5AF03A1627D8B5DE0022514F /* WheelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF03A1527D8B5DE0022514F /* WheelView.swift */; };
+		5AF03A1827D9F5AF0022514F /* PaddedLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF03A1727D9F5AF0022514F /* PaddedLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5ADFB6D327DA147E000C441C /* PointerImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointerImageView.swift; sourceTree = "<group>"; };
+		5ADFB6D527DA1B09000C441C /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
+		5ADFB6D727DA2372000C441C /* K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = K.swift; sourceTree = "<group>"; };
 		5AF039EC27D803790022514F /* WheelyCool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WheelyCool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AF039EF27D803790022514F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AF039F127D803790022514F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		5AF039F327D803790022514F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5AF039F627D803790022514F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5AF039F827D803800022514F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5AF039FB27D803800022514F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5AF039FD27D803800022514F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AF03A0527D80B900022514F /* OptionsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsVC.swift; sourceTree = "<group>"; };
+		5AF03A0927D80E2A0022514F /* WheelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheelVC.swift; sourceTree = "<group>"; };
+		5AF03A1127D818130022514F /* OptionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionCell.swift; sourceTree = "<group>"; };
+		5AF03A1327D824D90022514F /* ModalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalVC.swift; sourceTree = "<group>"; };
+		5AF03A1527D8B5DE0022514F /* WheelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheelView.swift; sourceTree = "<group>"; };
+		5AF03A1727D9F5AF0022514F /* PaddedLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddedLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +70,38 @@
 		5AF039EE27D803790022514F /* WheelyCool */ = {
 			isa = PBXGroup;
 			children = (
+				5ADFB6D727DA2372000C441C /* K.swift */,
+				5AF03A0D27D812380022514F /* Views */,
 				5AF039EF27D803790022514F /* AppDelegate.swift */,
 				5AF039F127D803790022514F /* SceneDelegate.swift */,
-				5AF039F327D803790022514F /* ViewController.swift */,
-				5AF039F527D803790022514F /* Main.storyboard */,
 				5AF039F827D803800022514F /* Assets.xcassets */,
 				5AF039FA27D803800022514F /* LaunchScreen.storyboard */,
 				5AF039FD27D803800022514F /* Info.plist */,
+				5AF03A0B27D8121C0022514F /* Controllers */,
 			);
 			path = WheelyCool;
+			sourceTree = "<group>";
+		};
+		5AF03A0B27D8121C0022514F /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				5AF03A1327D824D90022514F /* ModalVC.swift */,
+				5AF03A0527D80B900022514F /* OptionsVC.swift */,
+				5AF03A0927D80E2A0022514F /* WheelVC.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		5AF03A0D27D812380022514F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5AF03A1527D8B5DE0022514F /* WheelView.swift */,
+				5AF03A1127D818130022514F /* OptionCell.swift */,
+				5AF03A1727D9F5AF0022514F /* PaddedLabel.swift */,
+				5ADFB6D327DA147E000C441C /* PointerImageView.swift */,
+				5ADFB6D527DA1B09000C441C /* RoundedButton.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +164,6 @@
 			files = (
 				5AF039FC27D803800022514F /* LaunchScreen.storyboard in Resources */,
 				5AF039F927D803800022514F /* Assets.xcassets in Resources */,
-				5AF039F727D803790022514F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +174,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5AF039F427D803790022514F /* ViewController.swift in Sources */,
+				5AF03A1427D824D90022514F /* ModalVC.swift in Sources */,
+				5ADFB6D627DA1B09000C441C /* RoundedButton.swift in Sources */,
 				5AF039F027D803790022514F /* AppDelegate.swift in Sources */,
+				5AF03A1627D8B5DE0022514F /* WheelView.swift in Sources */,
+				5AF03A1227D818130022514F /* OptionCell.swift in Sources */,
+				5AF03A0A27D80E2A0022514F /* WheelVC.swift in Sources */,
+				5ADFB6D827DA2372000C441C /* K.swift in Sources */,
 				5AF039F227D803790022514F /* SceneDelegate.swift in Sources */,
+				5AF03A1827D9F5AF0022514F /* PaddedLabel.swift in Sources */,
+				5AF03A0627D80B900022514F /* OptionsVC.swift in Sources */,
+				5ADFB6D427DA147E000C441C /* PointerImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		5AF039F527D803790022514F /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5AF039F627D803790022514F /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		5AF039FA27D803800022514F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -294,7 +330,7 @@
 				INFOPLIST_FILE = WheelyCool/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -322,7 +358,7 @@
 				INFOPLIST_FILE = WheelyCool/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
