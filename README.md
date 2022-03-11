@@ -1,2 +1,2 @@
-# Spinning-Wheel
-A wheel of fortune with custom inputs
+# WheelyCool
+A wheel of fortune with custom inputs.
